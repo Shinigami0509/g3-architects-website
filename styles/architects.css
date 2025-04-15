@@ -237,7 +237,7 @@ main > section{
   }
   #experience-badge{
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-left: 20px;
   }
 
 }
@@ -257,8 +257,8 @@ main > section{
     justify-items: center;
   }
 
-  #experience-bardge{
+  #experience-badge{
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-left: 20px;
   }
 }
